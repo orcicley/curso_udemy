@@ -1,0 +1,9 @@
+<?php 
+define("BANCO_DE_DADOS",[
+	"banco",
+	"usuario",
+	"senha",
+	"teste"
+]);
+print_r(BANCO_DE_DADOS)
+ ?>
